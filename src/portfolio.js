@@ -35,7 +35,7 @@ const socialMediaLinks = {
   github: "https://github.com/aayushv0408",
   linkedin: "https://www.linkedin.com/in/aayushv0408/",
   gmail: "aayushv0408@gmail.com",
-  whatsapp: "https://wa.me/918874889343", // Your WhatsApp number
+  whatsapp: "https://wa.me/91910580079", // Your WhatsApp number
   twitter: "", // Add your Twitter URL here
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
